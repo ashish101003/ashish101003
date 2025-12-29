@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0b1220,100:111827&text=Purumani%20Ashish%20Reddy&fontColor=ffffff&fontSize=44&fontAlignY=55" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;React%2FNext.js+%7C+Node%2FExpress+%7C+MongoDB+%7C+PostgreSQL;Building+clean%2C+scalable%2C+production-ready+apps;Open+to+internships+and+part-time+roles+in+Dublin" />
 
@@ -14,13 +14,13 @@
 <a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ashish-reddy-b10a85258/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:purumaniashishreddy@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="YOUR_RESUME_URL">
+<a href="https://drive.google.com/file/d/1FXsuxsGfuXDEZOZwuJ7DWWlelLY04R61/view?usp=drive_link">
   <img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
 
@@ -66,15 +66,15 @@ const ashish = {
 
 <div align="center">
 
-<a href="https://github.com/ashish101003/genomic-prediction-rf">
+<a href="https://github.com/ashish101003/Multitrait-PS/genomic-prediction-rf">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=genomic-prediction-rf&theme=github_dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/Yashish101003/expense-manager-mern">
+<!-- <a href="https://github.com/Yashish101003/expense-manager-mern">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=expense-manager-mern&theme=github_dark&hide_border=true" />
-</a>
+</a> -->
 
-<a href="https://github.com/ashish101003/fruit-health-recognition">
+<a href="https://github.com/ashish101003/FruitHealth-and-FruitDetection-system/FruitHealth-and-FruitDetection-system">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=fruit-health-recognition&theme=github_dark&hide_border=true" />
 </a>
 
