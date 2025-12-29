@@ -1,72 +1,47 @@
-<h1 align="center">Hi, I'm Purumani Ashish Reddy 👋</h1>
+<!-- ===========================
+     GitHub Profile README
+     Paste into: YOUR_USERNAME/README.md
+     Replace placeholders:
+     - YOUR_GITHUB_USERNAME
+     - YOUR_LINKEDIN_URL
+     - YOUR_PORTFOLIO_URL (optional)
+     - YOUR_RESUME_URL (Google Drive / PDF link)
+=========================== -->
 
-<p align="center">
-  Dublin, Ireland • <a href="mailto:purumaniashishreddy@gmail.com">purumaniashishreddy@gmail.com</a> • +353 89 201 5726
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_GITHUB_URL">GitHub</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0b1220,100:111827&text=Purumani%20Ashish%20Reddy&fontColor=ffffff&fontSize=44&fontAlignY=55" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;React%2FNext.js+%7C+Node%2FExpress+%7C+MongoDB+%7C+PostgreSQL;Building+clean%2C+scalable%2C+production-ready+apps;Open+to+internships+%2F+part-time+roles+in+Dublin" />
 
-## Professional Summary
-Recent Computer Science graduate with a strong interest in Artificial Intelligence and Machine Learning, with hands-on experience in model development, data preprocessing, and intelligent system design. Strong in Python, C++, Java, and JavaScript, plus full-stack web development (React/Next.js, Node/Express) and performance debugging/optimization. :contentReference[oaicite:1]{index=1}
+<br/>
 
----
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:purumaniashishreddy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="YOUR_RESUME_URL">
+  <img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=googledocs&logoColor=white" />
+</a>
 
-## Tech Stack
-**Languages:** Python, JavaScript, TypeScript, Java, C++, SQL  
-**Frontend:** React.js, Next.js, HTML5, CSS3  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, MySQL, PostgreSQL  
-**DevOps/Workflow:** Git, CI/CD, Agile/Scrum  
-**Tools:** Jira, Postman, VS Code, GitHub :contentReference[oaicite:2]{index=2}
+<br/><br/>
 
----
-
-## Experience
-### Frontend Developer Intern — imPAC Labs (On-site)
-**Feb 2025 – Jul 2025**  
-- Developed and optimized scalable applications using TypeScript/JavaScript and modern frameworks  
-- Debugged complex systems and analyzed performance bottlenecks to improve UX :contentReference[oaicite:3]{index=3}
-
-### Full Stack Developer Intern — Kronoryx Technology (Remote)
-**Oct 2023 – Nov 2023**  
-- Built internal tools using React.js and JavaScript with focus on code optimization  
-- Debugged issues and improved performance through profiling :contentReference[oaicite:4]{index=4}
+</div>
 
 ---
 
-## Featured Projects
-### 🌾 Multi-Trait Multi-Environment Genomic Prediction (Random Forest)
-- Random Forest model for predicting end-use quality traits in winter wheat  
-- Preprocessed genomic + phenotypic data across environments  
-- **Tech:** Python, NumPy, pandas, matplotlib :contentReference[oaicite:5]{index=5}
+## About Me
 
-### 💰 ExpenseManager (MERN)
-- Secure income/expense tracking with JWT auth and interactive charts  
-- **Tech:** React, Node.js, Express.js, MongoDB, REST API :contentReference[oaicite:6]{index=6}
-
-### 🍎 Fruit Health & Fruit Recognition System (Deep Learning)
-- Web system to identify fruits and display health info from images  
-- CNN-based image classification  
-- **Tech:** Python, TensorFlow, OpenCV, HTML, CSS, JavaScript :contentReference[oaicite:7]{index=7}
-
----
-
-## Education
-**M.Sc. Computing (Artificial Intelligence)** — Sep 2025 – Present :contentReference[oaicite:8]{index=8}  
-**B.E. Computer Science & Engineering** — Dec 2021 – Jun 2025 (CGPA: 7.85/10) :contentReference[oaicite:9]{index=9}
-
----
-
-## GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
-</p>
+```js
+const ashish = {
+  location: "Dublin, Ireland 🇮🇪",
+  role: "Full Stack Developer | AI/ML",
+  focus: ["React/Next.js", "Node/Express", "Machine Learning"],
+  experience: ["Frontend Intern @ imPAC Labs", "Full Stack Intern @ Kronoryx"],
+  funFact: "Coffee keeps my code compiling ☕"
+};
