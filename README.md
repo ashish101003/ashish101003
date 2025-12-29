@@ -7,7 +7,8 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;React%2FNext.js+%7C+Node%2FExpress+%7C+MongoDB+%7C+PostgreSQL;Building+clean%2C+scalable%2C+production-ready+apps;Open+to+internships+and+part-time+roles+in+Dublin" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Hey%2C+I%27m+Ashish+%F0%9F%91%8B;Full+Stack+Developer+%C2%B7+AI%2FML+Enthusiast;React%2FNext.js+%7C+Node%2FExpress+%7C+MongoDB+%7C+PostgreSQL;Building+clean%2C+scalable%2C+production-ready+apps" />
+
 
 <br/>
 
@@ -107,12 +108,4 @@ const ashish = {
 </table>
 
 
-<!-- <a href="https://github.com/Yashish101003/expense-manager-mern">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=expense-manager-mern&theme=github_dark&hide_border=true" />
-</a> -->
 
-<a href="https://github.com/ashish101003/FruitHealth-and-FruitDetection-system/FruitHealth-and-FruitDetection-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=fruit-health-recognition&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
