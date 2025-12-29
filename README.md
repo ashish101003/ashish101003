@@ -30,14 +30,18 @@
 
 ## About Me
 
-```js
+<pre><code>
 const ashish = {
   location: "Dublin, Ireland 🇮🇪",
   role: "Full Stack Developer | AI/ML",
   focus: ["React/Next.js", "Node/Express", "Machine Learning"],
-  experience: ["Frontend Intern @ imPAC Labs", "Full Stack Intern @ Kronoryx"],
+  experience: [
+    "Frontend Intern @ imPAC Labs",
+    "Full Stack Intern @ Kronoryx"
+  ],
   funFact: "Coffee keeps my code compiling ☕"
 };
+</code></pre>
 
 ---
 
@@ -75,7 +79,3 @@ const ashish = {
 </a>
 
 </div>
-
-
-
-
