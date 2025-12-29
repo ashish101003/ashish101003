@@ -30,15 +30,14 @@
 
 ## About Me
 
-- 📍 Location: **Dublin, Ireland 🇮🇪**
-- 💻 Role: **Full Stack Developer | AI & Machine Learning**
-- 🚀 Focus Areas: **React, Next.js, Node.js, Express, Machine Learning**
-- 🏢 Experience:
-  - **Frontend Developer Intern – imPAC Labs** (Feb 2025 – Jul 2025)
-  - **Full Stack Developer Intern – Kronoryx Technology** (Oct 2023 – Nov 2023)
-- ⚡ Interests: **Scalable systems, clean UI/UX, performance optimization**
-- ☕ Fun fact: Coffee keeps my code compiling
-- 📩 Reach me at: **purumaniashishreddy@gmail.com**
+```js
+const ashish = {
+  location: "Dublin, Ireland 🇮🇪",
+  role: "Full Stack Developer | AI/ML",
+  focus: ["React/Next.js", "Node/Express", "Machine Learning"],
+  experience: ["Frontend Intern @ imPAC Labs", "Full Stack Intern @ Kronoryx"],
+  funFact: "Coffee keeps my code compiling ☕"
+};
 
 ---
 
@@ -77,31 +76,6 @@
 
 </div>
 
----
 
-## GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=Profile+Views" />
-</div>
 
