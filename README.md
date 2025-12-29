@@ -53,10 +53,10 @@ const ashish = {
 
 ## Experience Highlights
 
-| Company | Role | Duration | Focus |
+| Company | Role | Duration | Tech |
 |------|------|---------|------|
-| imPAC Labs | Frontend Developer Intern | Feb 2025 – Jul 2025 | TypeScript, debugging, performance optimization |
-| Kronoryx Technology | Full Stack Developer Intern | Oct 2023 – Nov 2023 | React, internal tools, profiling & optimization |
+| imPAC Labs | Frontend Developer Intern | Feb 2025 – Jul 2025 | React,Typescript,JavaScript,Next.js,AI|
+| Kronoryx Technology | Full Stack Developer Intern | Oct 2023 – Nov 2023 | MERN|
 
 ---
 
