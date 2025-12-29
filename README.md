@@ -66,15 +66,15 @@ const ashish = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/genomic-prediction-rf">
+<a href="https://github.com/ashish101003/genomic-prediction-rf">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=genomic-prediction-rf&theme=github_dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/expense-manager-mern">
+<a href="https://github.com/Yashish101003/expense-manager-mern">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=expense-manager-mern&theme=github_dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/fruit-health-recognition">
+<a href="https://github.com/ashish101003/fruit-health-recognition">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=fruit-health-recognition&theme=github_dark&hide_border=true" />
 </a>
 
