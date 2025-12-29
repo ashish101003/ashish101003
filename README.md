@@ -33,7 +33,7 @@
 
 ```js
 const ashish = {
-  location: "Dublin, Ireland 🇮🇪",
+  location: "Dublin, Ireland",
   role: "Full Stack Developer | AI/ML Enthusiast",
   experience: "Internships + Academic Projects",
   education: "B.E. in Computer Science & Engineering",
