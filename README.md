@@ -34,11 +34,10 @@
 ```js
 const ashish = {
   location: "Dublin, Ireland",
-  role: "Full Stack Developer | AI/ML Enthusiast",
-  experience: "Internships + Academic Projects",
+  role: "Full Stack Developer",
+  experience: "Internships",
   education: "B.E. in Computer Science & Engineering",
-  currentFocus: ["AI/ML", "Full Stack Development", "Scalable Systems"],
-  funFact: "Coffee keeps my code compiling ☕"
+  currentFocus: ["AI/ML", "Full Stack Development"],
 };
 ```
 ---
