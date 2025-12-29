@@ -65,7 +65,7 @@ const ashish = {
 <tr>
 
 <td width="33%" align="center" valign="top">
-  <h3>Genomic Prediction (Random Forest)</h3>
+  <h3>Genomic Prediction</h3>
   <p>
     Multi-trait multi-environment genomic prediction for winter wheat
     using Random Forest models
