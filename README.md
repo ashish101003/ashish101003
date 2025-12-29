@@ -31,19 +31,16 @@
 
 ## About Me
 
-<pre><code>
+```js
 const ashish = {
   location: "Dublin, Ireland 🇮🇪",
-  role: "Full Stack Developer | AI/ML",
-  focus: ["React/Next.js", "Node/Express", "Machine Learning"],
-  experience: [
-    "Frontend Intern @ imPAC Labs",
-    "Full Stack Intern @ Kronoryx"
-  ],
+  role: "Full Stack Developer | AI/ML Enthusiast",
+  experience: "Internships + Academic Projects",
+  education: "B.E. in Computer Science & Engineering",
+  currentFocus: ["AI/ML", "Full Stack Development", "Scalable Systems"],
   funFact: "Coffee keeps my code compiling ☕"
 };
-</code></pre>
-
+```
 ---
 
 ## Tech Stack
