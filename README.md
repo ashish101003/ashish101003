@@ -74,7 +74,7 @@ const ashish = {
     using Random Forest models
   </p>
   <br/>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/genomic-prediction-rf">
+  <a href="https://github.com/ashish101003/Multitrait-PS">
     <img src="https://img.shields.io/badge/View%20Code-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </td>
@@ -92,13 +92,13 @@ const ashish = {
 </td>
 
 <td width="33%" align="center" valign="top">
-  <h3>Fruit Health & Recognition</h3>
+  <h3>Fruit Health & Fruit Recognition System</h3>
   <p>
     Deep learning-based fruit recognition system with health
     information using CNNs
   </p>
   <br/>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/fruit-health-recognition">
+  <a href="https://github.com/ashish101003/FruitHealth-and-FruitDetection-system">
     <img src="https://img.shields.io/badge/View%20Code-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </td>
