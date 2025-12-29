@@ -64,11 +64,48 @@ const ashish = {
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://github.com/ashish101003/Multitrait-PS/genomic-prediction-rf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=genomic-prediction-rf&theme=github_dark&hide_border=true" />
-</a>
+<td width="33%" align="center" valign="top">
+  <h3>Genomic Prediction (Random Forest)</h3>
+  <p>
+    Multi-trait multi-environment genomic prediction for winter wheat
+    using Random Forest models
+  </p>
+  <br/>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/genomic-prediction-rf">
+    <img src="https://img.shields.io/badge/View%20Code-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</td>
+
+<td width="33%" align="center" valign="top">
+  <h3>Expense Manager (MERN)</h3>
+  <p>
+    Full-stack expense tracking application with authentication,
+    charts, and REST APIs
+  </p>
+  <br/>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/expense-manager-mern">
+    <img src="https://img.shields.io/badge/View%20Code-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</td>
+
+<td width="33%" align="center" valign="top">
+  <h3>Fruit Health & Recognition</h3>
+  <p>
+    Deep learning-based fruit recognition system with health
+    information using CNNs
+  </p>
+  <br/>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/fruit-health-recognition">
+    <img src="https://img.shields.io/badge/View%20Code-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</td>
+
+</tr>
+</table>
+
 
 <!-- <a href="https://github.com/Yashish101003/expense-manager-mern">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=expense-manager-mern&theme=github_dark&hide_border=true" />
