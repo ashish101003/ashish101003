@@ -7,7 +7,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Hey%2C+I%27m+Ashish+%F0%9F%91%8B;Full+Stack+Developer+%C2%B7+AI%2FML+Enthusiast;React%2FNext.js+%7C+Node%2FExpress+%7C+MongoDB+%7C+PostgreSQL;Building+clean%2C+scalable%2C+production-ready+apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Hey%2C+I%27m+Ashish+%F0%9F%91%8B;Full+Stack+Developer+%C2%B7+AI%2FML+Enthusiast" />
 
 
 <br/>
